@@ -1,8 +1,8 @@
 ### Hi there, **I'm Ess** 👋
 
 <!--- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning the fundamentals of software development and data science.
-- 👯 I’m looking to collaborate on projects related to digital health
+- 🌱 I’m currently learning data science and data science.
+- 👯 I’m looking to collaborate on machine learning projects for social good.
 - 😄 My Pronouns: She/Her
 
 ---
