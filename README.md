@@ -1,7 +1,7 @@
-### Hi there, **I'm Esther** 👋
+### Hi there, **I'm Ess** 👋
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently improving my skills in web develoopment.
+- 🌱 I’m currently improving my programmimg skills.
 - 👯 I’m looking to collaborate on software development projects for social good.
 - 😄 My Pronouns: She/Her
 
