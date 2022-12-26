@@ -1,8 +1,8 @@
 ### Hi there, **I'm Ess** 👋
 
-<!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently improving my programmimg skills.
-- 👯 I’m looking to collaborate on software development projects for social good.
+- 🌱 I'm currently working on projects in JavaScript and Python
+-<!--  🔭 I’m currently learning at #100Devs -->
+- 👯 I’m looking to collaborate wih guys in the #100Devs catchUp crew.
 - 😄 My Pronouns: She/Her
 
 ---
