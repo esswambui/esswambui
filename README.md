@@ -1,7 +1,7 @@
 ### Hi there, **I'm Ess** 👋
 
-- 🌱 I'm currently working on projects in JavaScript and Python
--<!--  🔭 I’m currently learning at #100Devs -->
+- 🌱 I'm currently working on my personal projects.. Mostly Web Apps
+- 🔭 Languages of choice: Python, Javascript and PHP.
 - 👯 I’m looking to collaborate wih guys in the #100Devs catchUp crew.
 - 😄 My Pronouns: She/Her
 
