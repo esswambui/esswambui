@@ -1,8 +1,8 @@
 ### Hi there, **I'm Ess** 👋
 
-- 🌱 I'm currently working on my personal projects.. Mostly Web Apps
+- 🌱 I'm currently working on Datascience projects
 - 🔭 Languages of choice: Python and Javascript.
-- 👯 I’m looking to collaborate wih guys in the #100Devs catchUp crew.
+- 👯 I’m looking to collaborate wih guys in the data science and machine learning field.
 - 😄 My Pronouns: She/Her
 
 ---
